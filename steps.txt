@@ -1,0 +1,5 @@
+1. Create Django Project : django-admin startproject ProgrammingIsArt
+
+2. Create React App : npx-react-app frontend
+
+3. Move React App into django project folder
