@@ -1,0 +1,10 @@
+React Commands : 
+
+1. >>> npm run build (use to build application)
+2. >>> npm install -g serve (package for server initialization)
+3. >>> serve -s build (this command run server on 5000 port)
+4. >>> npm start (this command run server on 3000 port)
+
+either 3 or 4 command use to run server only port number will change
+
+5. >>> npm install --save react-bootstrap bootstrap@3 (bootstrap modules)
